@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
