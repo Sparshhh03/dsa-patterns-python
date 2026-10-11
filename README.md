@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0349-intersection-of-two-arrays) |
@@ -11,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
