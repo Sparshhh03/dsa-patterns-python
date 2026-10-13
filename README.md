@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Sparshhh03/dsa-patterns-python/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
